@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "canvas": "^1.6.9",
     "d3": "^4.12.2",
     "d3-cloud": "^1.2.4",
     "d3-dispatch": "^1.0.3",
