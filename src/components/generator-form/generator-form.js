@@ -1,5 +1,3 @@
- /*eslint no-useless-escape: "error"*/
-
 import React from 'react';
 import { connect } from 'react-redux';
 
