@@ -19,7 +19,7 @@ export class GeneratorForm extends React.Component {
 
     this.handleInputChange = this.handleInputChange.bind(this);
   }
-
+ 
   handleInputChange(event) {
     const target = event.target;
     if (target.name === 'textInput') {
